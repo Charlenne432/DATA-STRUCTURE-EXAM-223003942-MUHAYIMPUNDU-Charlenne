@@ -1,4 +1,5 @@
 C++ PROJECT EXPLANATIONS
+CONTACT AND GROUP ORGANIZER
 How project was completed?
 The project involves creating and managing two types of contact (Friend contact and colleague contact), grouping them and allowing for dynamic addition and removal, both at the contact group level.
 Here are the steps followed:
@@ -17,8 +18,8 @@ using namespace std;
 
 //  Define struct Contact
 struct Contact {
-    char name [30]; // stores contact’s name
-    char phone [15]; // stores contact’s phone number
+    char name [30]; // stores contactâ€™s name
+    char phone [15]; // stores contactâ€™s phone number
 };
 
 // Function to dynamically allocate Contact array
